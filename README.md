@@ -1,150 +1,119 @@
 # # # FINAL SPACE CHARACTER
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 <!-- TABLE OF CONTENTS -->
-# :green_book: Table of Contents
-- [:book: About the Project](#about-project)
-  - [:hammer_and_spanner: Built With](#built-with)
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [:rocket: Live Demo](#live-demo)
-- [:computer: Getting Started](#getting-started)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
-- [:silhouettes: Authors](#authors)
-- [:telescope: Future Features](#future-features)
-- [:handshake: Contributing](#contributing)
-- [:star:️ Show your support](#support)
-- [:pray: Acknowledgements](#acknowledgements)
-- [:question: FAQ](#faq)
-- [:memo: License](#license)
-<!-- PROJECT DESCRIPTION -->
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
-📖 [Space-travellers]
-This is a React WebApp with the real live data from the final space API. The application will allow users to serche and and you can get more detaile.
 
-# 🛠 Built With
+# 📖 [React-Group-Capstone] <a name="about-project"></a>
 
-HTML
 
-CSS
+**[React-Group-Capstone]** is a basic website that displays a number of final space character. A user can see more description for character both mobile and computer single page app.
 
-Javascript
+## 🛠 Built With <a name="built-with"></a>
 
-React JS
+- Html
+- css
+- Javascript
+- Visual Studio Code
+- Reactjs
 
-Lighthouse (An open-source, automated tool for improving the quality of web pages. It has audits for performance, accessibility, progressive web apps, SEO and more).
 
-Stylelint (A mighty, modern linter that helps you avoid errors and enforce conventions in your styles).
+### Key Features <a name="key-features"></a>
 
-ESlint (is a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code, with the goal of making code more consistent and avoiding bugs).
-🛠 Built With Tech Stack Client Server Database
+- **[Home_Page]**
+- **[Detaile_page]**
 
-# 🚀 Live Demo
-Please use the following link to access the website:
-[live demo](https://girma336.github.io/react-capstone)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[presentation](https://www.loom.com/share/3d86b5927b8c4140b246e6ba6e1ce309)
 
-💻 Getting Started
+## 🚀 Live Demo <a name="live-demo"></a>
+
+
+- [Live Demo Link]()
+- [Vedio_presentation](https://www.loom.com/share/3d86b5927b8c4140b246e6ba6e1ce309)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 💻 Getting Started <a name="getting-started"></a>
+
 To get a local copy up and running, follow these steps.
-
-# Prerequisites
-Have a local version control like Git. Which is a open source distributed version control system designed for source code management
-A text editor (e.g Visual Studio Code, Vim, Atom & Sublime.)
-A web browser (e.g Chrome, Safari, Mozilla Firefox.)
-Live Server which is a web extension that helps you to live reload feature for dynamic content (PHP, Node.js, ASPNET)
-Download waves to check project accessibilty
+1. clone the project from link: https://github.com/Victoria129/Javascript-Group-Capstone.git by using git clone (link).
+2. open it on ur vs code and start using it. 
 
 
-# Setup
-Clone the repo by running the command
-
- git clone https://github.com/girma336/react-capstone.git
-
-# Install
-Install this project with:
-
-Open the directory of the project
-
-cd Space-Travelers
-
-Open the directory of the src
-
-cd src
-Open the index.html file
-
-Click and open the index.html file
-
-# Usage
+### Usage
 
 To run the project, execute the following command:
 
-Please run the following to render on the browser
-
 npm start
 
-Run tests
+### Run tests
 
 To run tests, run the following command:
 
-Please run the following to test
-npm run test
+npm test
 
-# Deployment
+### Deployment
+
 You can deploy this project using:
 
-Please run the following to deploy
-npm run deploy
+npm i -D gh-pages
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+## 👥 Authors <a name="authors"></a>
 
-👥 Authors
-Mention all of the collaborators of this project.
-
-👤 **Girma**
+👤 **Author1**
 
 - GitHub: [@girma336](https://github.com/girma336)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-🔭 Future Features
-Add mobile version of the app
-Enhance the My Profile section by adding a placeholder message when the "My Missions" or "My Rockets" lists are empty (no missions joined or no rockets reserved).
-Enhance the My Profile section by adding the "Cancel reservation" and "Leave Mission" buttons to the lists here. Clicking them should dispatch the actions you have already used in the main Rockets and 
+## 🔭 Future Features <a name="future-features"></a>
 
-🤝 Contributing
+- [ ] **[Back_End_Side]**
+
+## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](https://github.com/girma336/react-capstone/issues).
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-⭐️ Show your support
-Write a message to encourage readers to support your project
 
-If you like this project...
+## ⭐️ Show your support <a name="support"></a>
 
-🙏 Acknowledgments
-Microverse for providing the Design and guideline for this project.
-(back to top)
+Give a ⭐️ if you like this project!
 
-❓ FAQ
-How can I find the node modules folder?
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-The node modules folder was added to the gitignore file, so you need to install it manually
-Please run the following to install node modules
 
-  npm install
+## 📝 License <a name="license"></a>
 
-Which index.html file should I open to make some changes in src folder or dist folder?
+This project is [MIT](./LICENSED) licensed.
 
-Please make change only to Html, CSS and JS files in the src directory
-(back to top)
 
-📝 License
-This project is MIT licensed.
-
-NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
