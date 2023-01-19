@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-capstone/static/css/main.9709dae5.css",
-    "main.js": "/react-capstone/static/js/main.39d15349.js",
-    "index.html": "/react-capstone/index.html",
-    "main.9709dae5.css.map": "/react-capstone/static/css/main.9709dae5.css.map",
-    "main.39d15349.js.map": "/react-capstone/static/js/main.39d15349.js.map"
+    "main.css": "./static/css/main.9709dae5.css",
+    "main.js": "./static/js/main.39d15349.js",
+    "index.html": "./index.html",
+    "main.9709dae5.css.map": "./static/css/main.9709dae5.css.map",
+    "main.39d15349.js.map": "./static/js/main.39d15349.js.map"
   },
   "entrypoints": [
     "static/css/main.9709dae5.css",
