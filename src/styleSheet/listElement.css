@@ -1,30 +1,21 @@
 .flex-container {
   width: 298px;
-  background-color: rgb(184, 188, 190);
-  border: 1px solid rgb(248, 240, 240);
-  margin: 10px auto;
-  border-radius: 15px;
   z-index: 1;
   height: 100%;
 }
 
 .image img {
   width: 280px;
-
-  /* height: 200px; */
-  border-radius: 5px;
 }
 
 .image {
   width: 280px;
-  margin: 2px auto;
+  margin: 0 auto;
 }
 
 .name {
   text-align: center;
   font-size: 16px;
-  padding: 5px;
-  border-bottom: 1px solid black;
 }
 
 .disc {
@@ -40,22 +31,25 @@
   font-size: 14px;
 }
 
-.flex-container:hover {
-  background-color: rgb(50, 51, 52);
-}
-
 .btn-action {
   text-align: center;
-  margin: 5px auto;
   border: none;
   cursor: pointer;
-  opacity: 0.6;
-  background-color: rgb(227, 222, 222);
+  opacity: 0.4;
+  background-color: #fff;
 }
 
-.btn-action:nth-last-child(n+2) {
-  z-index: 10;
-  background-color: #fff;
+.btn-action:hover {
+  transition: 3s;
+}
+
+@media screen and (min-width: 1258px) {
+  .btn-action:nth-last-child(8n-7),
+  .btn-action:nth-last-child(8n-2),
+  .btn-action:nth-last-child(8n-5),
+  .btn-action:nth-child(8n - 4) {
+    background-color: #aaa;
+  }
 }
 
 @media screen and (max-width: 678px) {
@@ -66,15 +60,21 @@
   .flex-container {
     width: 100%;
     margin: 0;
-    opacity: 0.6;
+    opacity: 1;
   }
 
   .btn-action {
     width: 100%;
-    background-color: rgb(249, 231, 231);
+    background-color: #ddd;
+  }
+
+  .btn-action:nth-child(4n),
+  .btn-action:nth-child(4n-3) {
+    background-color: #aaa;
+    color: #fff;
   }
 
   .image {
-    width: 90%;
+    width: 100%;
   }
 }

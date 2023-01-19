@@ -1,7 +1,7 @@
 .container {
   display: flex;
   flex-wrap: wrap;
-  width: 98%;
+  width: 100%;
 
   /* border: 1px solid lightgrey; */
 
