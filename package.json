@@ -2,7 +2,6 @@
   "name": "react-capstone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://girma336.github.io/react-capstone",
   "dependencies": {
     "@mui/icons-material": "^5.11.0",
     "@reduxjs/toolkit": "^1.9.1",
