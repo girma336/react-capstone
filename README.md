@@ -58,7 +58,7 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
-1. clone the project from link: https://github.com/Victoria129/Javascript-Group-Capstone.git by using git clone (link).
+1. clone the project from link: https://github.com/girma336/react-capstone.git by using git clone (link).
 2. open it on ur vs code and start using it. 
 
 
