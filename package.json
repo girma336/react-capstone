@@ -51,14 +51,6 @@
       "last 1 safari version"
     ]
   },
-  "rules": {
-    "jsx-a11y/label-has-associated-control": [
-      2,
-      {
-        "assert": "either"
-      }
-    ]
-  },
   "homepage": "https://girma336.github.io/react-capstone",
   "devDependencies": {
     "@babel/core": "^7.20.12",
