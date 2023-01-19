@@ -26,7 +26,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
     "build": "react-scripts build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test --transformIgnorePatterns \"node_modules/(?!axios)/\"",
@@ -50,7 +49,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://girma336.github.io/react-capstone",
   "devDependencies": {
     "@babel/core": "^7.20.12",
     "@babel/eslint-parser": "^7.19.1",
